@@ -1,0 +1,22 @@
+body{
+    font-family: "Open Sans",open-sans,Arial,"Helvetica Neue",sans-serif;
+    text-rendering: optimizespeed;
+}
+
+.error{
+	color:red;
+}
+
+p.title{
+	font-size: 36px;
+    font-weight: 300;
+}
+
+.tagName{
+	text-align: left;
+    float:left;
+}
+
+.tagContent{
+	text-align: right;
+}
